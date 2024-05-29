@@ -1,2 +1,2 @@
-# Test Project Repository
-Caze Learning Community Common Repository for testing
+# caze-git-playground
+This is a test project repository for github handson.
